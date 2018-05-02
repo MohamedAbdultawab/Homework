@@ -1,0 +1,80 @@
+ARAB101 ; Arabic ;; 3
+EU450   ; Political History of Europe ;; 3
+COM416  ; Data Communications and Networking ;; 3
+CHEM101 ; Chemistry ;; 4
+CS131   ; Introduction to Programming ;; 3
+ENG101  ; English I ;; 3
+ISE101  ; ISE Orientation ;; 0
+ISE100  ; Introduction to ISE ;; 3
+ISE111  ; Introduction to ISE ;; 3
+MAT101  ; Calculus I ;; 4
+MAT111  ; Linear Algebra ;; 3
+MAT112  ; Linear Algebra ;; 3
+PHY101  ; Physics I ;; 4
+CS122   ; Programming and Problem Solving ;; 3
+ENG102  ; English II ; ENG101 ; 3
+MAT102  ; Calculus II ; MAT101 ; 4
+MAT122  ; Discrete Mathematics ;; 3
+PHY102  ; Physics II ; PHY101 ; 4
+CS221   ; Data Structures and Algorithms ; CS122 ; 3
+ECE222  ; Digital Circuits and Systems ; MAT122 ; 3
+ISE201  ; Multimedia Systems ; CS122, MAT111 ; 3
+MAN201  ; Introduction to Management ;; 3
+CS222   ; Database Systems ; CS221 ; 3
+CS224   ; Web Design and Programming ; ISE201 ; 3
+CS226   ; Object Oriented Programming ; CS221 ; 3
+ECO202  ; Introduction to Economics ;; 3
+MAT250  ; Probability and Statistics ; MAT111 ; 3
+MAT201  ; Differential Equations; ; 3
+CS323   ; Operating Systems ; CS226 ; 3
+CS325   ; Internet Programming ; CS224 ; 3
+CS330   ; Visual Programming ; CS222 ; 3
+ISE301  ; Geographic Information Systems ; CS226 ; 4
+ISE303  ; Management Information Systems ; MAN201 ; 3
+CS322   ; Web Application Development ; CS325 ; 3
+ECE322  ; Networking and Data Communications ; ECE222 ; 3
+ENG302  ; Technical Report Writing and Presentation ; ENG102 ; 3
+ISE302  ; Accounting Information Systems; ; 3
+SE322   ; Software Engineering ; CS323 ; 4
+ISE202  ; GUI Programming ;; 3
+ISE399  ; Summer Practice ;; 0
+ISE300  ; Summer Practice ;; 0
+ISE401  ; eGovernment ; MAN201 ; 3
+ISE403  ; Principles of Information Security ; ECE322 ; 3
+ISE430  ; Human Computer Interaction ;; 3
+ISE432  ; Project Management for IS ;; 3
+ISE491  ; Senior Project I ;; 4
+ISE402  ; Information Ethics ;; 3
+SE402   ; Information Ethics ;; 3
+ISE492  ; Senior Project II ; ISE491 ; 4
+SE420   ; Software Testing ; SE322 ; 4
+FRE101  ; French I ;; 3
+IE333   ; Operations Research ;; 3
+COM333  ; Operations Research ;; 3
+MAT221  ; Numerical Methods in Engineering ;; 3
+MAT301  ; Numerical Methods in Engineering ;; 3
+COM463  ; Digital Image Processing ;; 3
+COM450  ; Advanced Database Programming ;; 3
+COM451  ; Introduction to Artificial Intelligence ;; 3
+COM453  ; Decision Making ;; 3
+CS450   ; Database Administration ;; 3
+ISE405  ; eCommerce ;; 3
+CS421   ; Visual Programming ;; 3
+COM446  ; Advanced Database Programming ;; 3
+COM432  ; Programming Languages II ;; 3
+AIT101  ; Ataturk's Principles and Reforms ;; 0
+GER101  ; German I ;; 3
+RELECT  ; Restricted Elective;; 3
+MELECT  ; Elective (Mathematics and Basic Sciences) ;; 3
+FELECT  ; Free Elective;; 3
+NELECT  ; Non-Technical Elective;; 3
+TELECT1 ; Technical Elective;; 3
+TELECT2 ; Technical Elective;; 3
+TELECT3 ; Technical Elective;; 3
+TELECT4 ; Technical Elective;; 3
+TELECT5 ; Technical Elective;; 3
+TUR100  ; Turkish for Foreigners;; 0
+TUR110  ; Turkish;; 3
+TUR222  ; Diksiyon ;; 3
+EE216   ; Electromagnetic Theory ;; 3
+ISE415  ; XXXXXXX ;; 3
